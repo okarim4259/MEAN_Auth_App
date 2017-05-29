@@ -2,10 +2,8 @@
 
 Complete MEAN stack application with authentication using json web tokens
 
-### Version
-1.0.0
-
-## Usage
+## Requisites
+Must have Git and Node.js installed.
 
 
 ### Installation
