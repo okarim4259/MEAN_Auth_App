@@ -1,6 +1,6 @@
 # MEANauthapp
 
-Complete MEAN stack application with authentication using json web tokens
+MEAN stack application with authentication using json web tokens
 
 ## Requisites
 Must have Git and Node.js installed.
